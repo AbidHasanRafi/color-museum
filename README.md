@@ -1,5 +1,5 @@
 # Color Museum
-Developed by: [Abid Hasan Rafi](abidhasanrafi.github.io)
+Developed by: [Abid Hasan Rafi](https://abidhasanrafi.github.io)
 
 **Color Museum** is a web application that allows users to generate beautiful color palettes for their design projects. The app lets users filter the palettes by their titles and copy color codes to the clipboard for quick usage in any project.
 
