@@ -1,0 +1,572 @@
+[
+  {
+    "name": "Sunset Glow",
+    "colors": [
+      "#FF6F61",
+      "#FF9F80",
+      "#FFD54F",
+      "#FFEB3B",
+      "#FF9800"
+    ]
+  },
+  {
+    "name": "Ocean Breeze",
+    "colors": [
+      "#00B0FF",
+      "#1E88E5",
+      "#1976D2",
+      "#1565C0",
+      "#0D47A1"
+    ]
+  },
+  {
+    "name": "Forest Walk",
+    "colors": [
+      "#388E3C",
+      "#4CAF50",
+      "#81C784",
+      "#A5D6A7",
+      "#C8E6C9"
+    ]
+  },
+  {
+    "name": "Royal Purple",
+    "colors": [
+      "#9C27B0",
+      "#673AB7",
+      "#3F51B5",
+      "#2196F3",
+      "#00BCD4"
+    ]
+  },
+  {
+    "name": "Pastel Dreams",
+    "colors": [
+      "#FFB6C1",
+      "#FFC0CB",
+      "#FF69B4",
+      "#FF1493",
+      "#FF00FF"
+    ]
+  },
+  {
+    "name": "Golden Hour",
+    "colors": [
+      "#FFD700",
+      "#FFC107",
+      "#FFA000",
+      "#FF8F00",
+      "#FF6F00"
+    ]
+  },
+  {
+    "name": "Mint Fresh",
+    "colors": [
+      "#B2EBF2",
+      "#80DEEA",
+      "#4DD0E1",
+      "#26C6DA",
+      "#00BCD4"
+    ]
+  },
+  {
+    "name": "Berry Bliss",
+    "colors": [
+      "#D81B60",
+      "#C2185B",
+      "#AD1457",
+      "#880E4F",
+      "#6A1B9A"
+    ]
+  },
+  {
+    "name": "Coral Reef",
+    "colors": [
+      "#FF5252",
+      "#FF4081",
+      "#E91E63",
+      "#C2185B",
+      "#9C27B0"
+    ]
+  },
+  {
+    "name": "Sunny Meadow",
+    "colors": [
+      "#FFEB3B",
+      "#FFC107",
+      "#FF9800",
+      "#FF5722",
+      "#F44336"
+    ]
+  },
+  {
+    "name": "Deep Ocean",
+    "colors": [
+      "#01579B",
+      "#0277BD",
+      "#0288D1",
+      "#039BE5",
+      "#03A9F4"
+    ]
+  },
+  {
+    "name": "Autumn Leaves",
+    "colors": [
+      "#FF7043",
+      "#FF5722",
+      "#E64A19",
+      "#D84315",
+      "#BF360C"
+    ]
+  },
+  {
+    "name": "Icy Blues",
+    "colors": [
+      "#E1F5FE",
+      "#B3E5FC",
+      "#81D4FA",
+      "#4FC3F7",
+      "#29B6F6"
+    ]
+  },
+  {
+    "name": "Warm Neutrals",
+    "colors": [
+      "#BCAAA4",
+      "#A1887F",
+      "#8D6E63",
+      "#795548",
+      "#6D4C41"
+    ]
+  },
+  {
+    "name": "Electric Vibes",
+    "colors": [
+      "#FF4081",
+      "#E91E63",
+      "#C2185B",
+      "#9C27B0",
+      "#673AB7"
+    ]
+  },
+  {
+    "name": "Tropical Paradise",
+    "colors": [
+      "#00E676",
+      "#00C853",
+      "#00BFA5",
+      "#00ACC1",
+      "#0097A7"
+    ]
+  },
+  {
+    "name": "Mystic Purple",
+    "colors": [
+      "#7E57C2",
+      "#673AB7",
+      "#5E35B1",
+      "#512DA8",
+      "#4527A0"
+    ]
+  },
+  {
+    "name": "Soft Pastels",
+    "colors": [
+      "#F48FB1",
+      "#F06292",
+      "#EC407A",
+      "#E91E63",
+      "#D81B60"
+    ]
+  },
+  {
+    "name": "Golden Sands",
+    "colors": [
+      "#FFD54F",
+      "#FFCA28",
+      "#FFC107",
+      "#FFB300",
+      "#FFA000"
+    ]
+  },
+  {
+    "name": "Emerald Greens",
+    "colors": [
+      "#66BB6A",
+      "#4CAF50",
+      "#43A047",
+      "#388E3C",
+      "#2E7D32"
+    ]
+  },
+  {
+    "name": "Cool Blues",
+    "colors": [
+      "#29B6F6",
+      "#03A9F4",
+      "#039BE5",
+      "#0288D1",
+      "#0277BD"
+    ]
+  },
+  {
+    "name": "Vintage Rose",
+    "colors": [
+      "#F8BBD0",
+      "#F48FB1",
+      "#F06292",
+      "#EC407A",
+      "#E91E63"
+    ]
+  },
+  {
+    "name": "Sunny Citrus",
+    "colors": [
+      "#FFEB3B",
+      "#FFC107",
+      "#FF9800",
+      "#FF5722",
+      "#F44336"
+    ]
+  },
+  {
+    "name": "Ocean Depths",
+    "colors": [
+      "#0097A7",
+      "#00838F",
+      "#006064",
+      "#004D40",
+      "#00363A"
+    ]
+  },
+  {
+    "name": "Spring Blossoms",
+    "colors": [
+      "#F48FB1",
+      "#F06292",
+      "#EC407A",
+      "#E91E63",
+      "#D81B60"
+    ]
+  },
+  {
+    "name": "Midnight Sky",
+    "colors": [
+      "#0D47A1",
+      "#1565C0",
+      "#1976D2",
+      "#1E88E5",
+      "#2196F3"
+    ]
+  },
+  {
+    "name": "Candy Crush",
+    "colors": [
+      "#FF6F61",
+      "#FF9F80",
+      "#FFD54F",
+      "#FFEB3B",
+      "#FF9800"
+    ]
+  },
+  {
+    "name": "Earthy Tones",
+    "colors": [
+      "#8D6E63",
+      "#795548",
+      "#6D4C41",
+      "#5D4037",
+      "#4E342E"
+    ]
+  },
+  {
+    "name": "Neon Nights",
+    "colors": [
+      "#FF4081",
+      "#E91E63",
+      "#C2185B",
+      "#9C27B0",
+      "#673AB7"
+    ]
+  },
+  {
+    "name": "Sunlit Meadow",
+    "colors": [
+      "#FFEB3B",
+      "#FFC107",
+      "#FF9800",
+      "#FF5722",
+      "#F44336"
+    ]
+  },
+  {
+    "name": "Ocean Waves",
+    "colors": [
+      "#00B0FF",
+      "#1E88E5",
+      "#1976D2",
+      "#1565C0",
+      "#0D47A1"
+    ]
+  },
+  {
+    "name": "Golden Horizon",
+    "colors": [
+      "#FFD700",
+      "#FFC107",
+      "#FFA000",
+      "#FF8F00",
+      "#FF6F00"
+    ]
+  },
+  {
+    "name": "Minty Fresh",
+    "colors": [
+      "#B2EBF2",
+      "#80DEEA",
+      "#4DD0E1",
+      "#26C6DA",
+      "#00BCD4"
+    ]
+  },
+  {
+    "name": "Berry Burst",
+    "colors": [
+      "#D81B60",
+      "#C2185B",
+      "#AD1457",
+      "#880E4F",
+      "#6A1B9A"
+    ]
+  },
+  {
+    "name": "Coral Bliss",
+    "colors": [
+      "#FF5252",
+      "#FF4081",
+      "#E91E63",
+      "#C2185B",
+      "#9C27B0"
+    ]
+  },
+  {
+    "name": "Sunny Fields",
+    "colors": [
+      "#FFEB3B",
+      "#FFC107",
+      "#FF9800",
+      "#FF5722",
+      "#F44336"
+    ]
+  },
+  {
+    "name": "Deep Sea",
+    "colors": [
+      "#01579B",
+      "#0277BD",
+      "#0288D1",
+      "#039BE5",
+      "#03A9F4"
+    ]
+  },
+  {
+    "name": "Autumn Hues",
+    "colors": [
+      "#FF7043",
+      "#FF5722",
+      "#E64A19",
+      "#D84315",
+      "#BF360C"
+    ]
+  },
+  {
+    "name": "Frosty Blues",
+    "colors": [
+      "#E1F5FE",
+      "#B3E5FC",
+      "#81D4FA",
+      "#4FC3F7",
+      "#29B6F6"
+    ]
+  },
+  {
+    "name": "Warm Sands",
+    "colors": [
+      "#BCAAA4",
+      "#A1887F",
+      "#8D6E63",
+      "#795548",
+      "#6D4C41"
+    ]
+  },
+  {
+    "name": "Electric Pulse",
+    "colors": [
+      "#FF4081",
+      "#E91E63",
+      "#C2185B",
+      "#9C27B0",
+      "#673AB7"
+    ]
+  },
+  {
+    "name": "Tropical Bliss",
+    "colors": [
+      "#00E676",
+      "#00C853",
+      "#00BFA5",
+      "#00ACC1",
+      "#0097A7"
+    ]
+  },
+  {
+    "name": "Mystic Night",
+    "colors": [
+      "#7E57C2",
+      "#673AB7",
+      "#5E35B1",
+      "#512DA8",
+      "#4527A0"
+    ]
+  },
+  {
+    "name": "Pastel Haze",
+    "colors": [
+      "#F48FB1",
+      "#F06292",
+      "#EC407A",
+      "#E91E63",
+      "#D81B60"
+    ]
+  },
+  {
+    "name": "Golden Glow",
+    "colors": [
+      "#FFD54F",
+      "#FFCA28",
+      "#FFC107",
+      "#FFB300",
+      "#FFA000"
+    ]
+  },
+  {
+    "name": "Emerald Forest",
+    "colors": [
+      "#66BB6A",
+      "#4CAF50",
+      "#43A047",
+      "#388E3C",
+      "#2E7D32"
+    ]
+  },
+  {
+    "name": "Cool Waters",
+    "colors": [
+      "#29B6F6",
+      "#03A9F4",
+      "#039BE5",
+      "#0288D1",
+      "#0277BD"
+    ]
+  },
+  {
+    "name": "Vintage Charm",
+    "colors": [
+      "#F8BBD0",
+      "#F48FB1",
+      "#F06292",
+      "#EC407A",
+      "#E91E63"
+    ]
+  },
+  {
+    "name": "Citrus Burst",
+    "colors": [
+      "#FFEB3B",
+      "#FFC107",
+      "#FF9800",
+      "#FF5722",
+      "#F44336"
+    ]
+  },
+  {
+    "name": "Ocean Mist",
+    "colors": [
+      "#0097A7",
+      "#00838F",
+      "#006064",
+      "#004D40",
+      "#00363A"
+    ]
+  },
+  {
+    "name": "Spring Garden",
+    "colors": [
+      "#F48FB1",
+      "#F06292",
+      "#EC407A",
+      "#E91E63",
+      "#D81B60"
+    ]
+  },
+  {
+    "name": "Midnight Blue",
+    "colors": [
+      "#0D47A1",
+      "#1565C0",
+      "#1976D2",
+      "#1E88E5",
+      "#2196F3"
+    ]
+  },
+  {
+    "name": "Candy Pop",
+    "colors": [
+      "#FF6F61",
+      "#FF9F80",
+      "#FFD54F",
+      "#FFEB3B",
+      "#FF9800"
+    ]
+  },
+  {
+    "name": "Earthy Vibes",
+    "colors": [
+      "#8D6E63",
+      "#795548",
+      "#6D4C41",
+      "#5D4037",
+      "#4E342E"
+    ]
+  },
+  {
+    "name": "Neon Glow",
+    "colors": [
+      "#FF4081",
+      "#E91E63",
+      "#C2185B",
+      "#9C27B0",
+      "#673AB7"
+    ]
+  },
+  {
+    "name": "Sunlit Fields",
+    "colors": [
+      "#FFEB3B",
+      "#FFC107",
+      "#FF9800",
+      "#FF5722",
+      "#F44336"
+    ]
+  },
+  {
+    "name": "Ocean Tide",
+    "colors": [
+      "#00B0FF",
+      "#1E88E5",
+      "#1976D2",
+      "#1565C0",
+      "#0D47A1"
+    ]
+  }
+]
