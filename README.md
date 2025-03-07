@@ -25,7 +25,7 @@
 
 2. Navigate to the project directory:
    ```bash
-   cd colorized
+   cd color-museum
    ```
 
 3. Install dependencies:
@@ -35,10 +35,10 @@
 
 4. Start the development server:
    ```bash
-   npm start
+   npm run dev
    ```
 
-   The app will be running at `http://localhost:3000`.
+   The app will be running at `http://localhost:5173`.
 
 ## Usage
 
