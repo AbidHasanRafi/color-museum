@@ -1,4 +1,4 @@
-![Color Museum](https://raw.githubusercontent.com/AbidHasanRafi/color-museum/main/Color%20Museum.png)
+![Color Museum](https://raw.githubusercontent.com/AbidHasanRafi/color-museum/main/color-museum.png)
 
 **Color Museum** is a web application that allows users to generate beautiful color palettes for their design projects. The app lets users filter the palettes by their titles and copy color codes to the clipboard for quick usage in any project.
 
