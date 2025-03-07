@@ -47,8 +47,8 @@ const CustomPaletteCreator = ({ customPalette, setCustomPalette, saveCustomPalet
   };
 
   return (
-    <div className="rounded-lg shadow-xl w-full p-4">
-      <h2 className="text-2xl font-semibold text-gray-100 mb-6">Create Your Palette</h2>
+    <div className="rounded-lg shadow-xl w-full p-4 lg:p-0">
+      <h2 className="text-2xl text-center lg:text-start font-semibold text-gray-100 mb-6">Create Your Palette</h2>
       
       {/* Color Picker and Action Buttons */}
       <div className="flex flex-wrap gap-4 mb-6 justify-center sm:justify-start">
